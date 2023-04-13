@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/ccd30e7c1e3a4a84be9d394347634aa1/artifacts
+end_time: 1681389740790
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: ccd30e7c1e3a4a84be9d394347634aa1
+run_name: Light Gradient Boosting Machine
+run_uuid: ccd30e7c1e3a4a84be9d394347634aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681389740766
+status: 3
+tags: []
+user_id: snuggeha

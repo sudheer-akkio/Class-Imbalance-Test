@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/6bd5084e1faf4d9295c5a9c5365be6c2/artifacts
+end_time: 1681389463540
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 6bd5084e1faf4d9295c5a9c5365be6c2
+run_name: Random Forest Classifier
+run_uuid: 6bd5084e1faf4d9295c5a9c5365be6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681389463512
+status: 3
+tags: []
+user_id: snuggeha

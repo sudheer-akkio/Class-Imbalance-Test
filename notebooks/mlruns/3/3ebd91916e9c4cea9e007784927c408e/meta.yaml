@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/3ebd91916e9c4cea9e007784927c408e/artifacts
+end_time: 1681390397723
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 3ebd91916e9c4cea9e007784927c408e
+run_name: Extra Trees Classifier
+run_uuid: 3ebd91916e9c4cea9e007784927c408e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681390397700
+status: 3
+tags: []
+user_id: snuggeha

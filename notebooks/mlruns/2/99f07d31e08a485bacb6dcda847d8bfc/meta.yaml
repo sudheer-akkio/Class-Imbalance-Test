@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/2/99f07d31e08a485bacb6dcda847d8bfc/artifacts
+end_time: 1681349853830
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 99f07d31e08a485bacb6dcda847d8bfc
+run_name: Naive Bayes
+run_uuid: 99f07d31e08a485bacb6dcda847d8bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681349853802
+status: 3
+tags: []
+user_id: snuggeha

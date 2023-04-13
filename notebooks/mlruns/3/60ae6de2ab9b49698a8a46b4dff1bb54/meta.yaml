@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/60ae6de2ab9b49698a8a46b4dff1bb54/artifacts
+end_time: 1681390199536
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 60ae6de2ab9b49698a8a46b4dff1bb54
+run_name: Quadratic Discriminant Analysis
+run_uuid: 60ae6de2ab9b49698a8a46b4dff1bb54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681390199516
+status: 3
+tags: []
+user_id: snuggeha

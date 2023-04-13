@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/03c292bd638d4f54af7e884e1753f67a/artifacts
+end_time: 1681389740958
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 03c292bd638d4f54af7e884e1753f67a
+run_name: Gradient Boosting Classifier
+run_uuid: 03c292bd638d4f54af7e884e1753f67a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681389740935
+status: 3
+tags: []
+user_id: snuggeha

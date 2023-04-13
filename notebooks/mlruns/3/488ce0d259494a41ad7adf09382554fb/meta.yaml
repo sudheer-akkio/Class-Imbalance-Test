@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/488ce0d259494a41ad7adf09382554fb/artifacts
+end_time: 1681350062449
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 488ce0d259494a41ad7adf09382554fb
+run_name: Linear Discriminant Analysis
+run_uuid: 488ce0d259494a41ad7adf09382554fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681350062427
+status: 3
+tags: []
+user_id: snuggeha

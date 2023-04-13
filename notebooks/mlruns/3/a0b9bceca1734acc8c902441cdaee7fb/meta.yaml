@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/a0b9bceca1734acc8c902441cdaee7fb/artifacts
+end_time: 1681389461830
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: a0b9bceca1734acc8c902441cdaee7fb
+run_name: Ridge Classifier
+run_uuid: a0b9bceca1734acc8c902441cdaee7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681389461809
+status: 3
+tags: []
+user_id: snuggeha

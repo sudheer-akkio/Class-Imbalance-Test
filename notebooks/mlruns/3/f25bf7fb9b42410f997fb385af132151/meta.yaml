@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/f25bf7fb9b42410f997fb385af132151/artifacts
+end_time: 1681390398318
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: f25bf7fb9b42410f997fb385af132151
+run_name: CatBoost Classifier
+run_uuid: f25bf7fb9b42410f997fb385af132151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681390398296
+status: 3
+tags: []
+user_id: snuggeha

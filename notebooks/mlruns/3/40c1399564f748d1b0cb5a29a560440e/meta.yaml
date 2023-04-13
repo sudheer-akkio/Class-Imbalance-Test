@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/40c1399564f748d1b0cb5a29a560440e/artifacts
+end_time: 1681390199155
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 40c1399564f748d1b0cb5a29a560440e
+run_name: Logistic Regression
+run_uuid: 40c1399564f748d1b0cb5a29a560440e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681390199130
+status: 3
+tags: []
+user_id: snuggeha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/d56dddb7d40742c5927923122ac2fe1f/artifacts
+end_time: 1681390199347
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: d56dddb7d40742c5927923122ac2fe1f
+run_name: SVM - Linear Kernel
+run_uuid: d56dddb7d40742c5927923122ac2fe1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681390199324
+status: 3
+tags: []
+user_id: snuggeha

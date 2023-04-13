@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/9d28e8bc3e174fc9bae3226ab46e1772/artifacts
+end_time: 1681350061580
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 9d28e8bc3e174fc9bae3226ab46e1772
+run_name: Decision Tree Classifier
+run_uuid: 9d28e8bc3e174fc9bae3226ab46e1772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681350061555
+status: 3
+tags: []
+user_id: snuggeha

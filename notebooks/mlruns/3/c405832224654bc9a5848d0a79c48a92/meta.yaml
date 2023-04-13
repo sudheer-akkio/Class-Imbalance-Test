@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/c405832224654bc9a5848d0a79c48a92/artifacts
+end_time: 1681389463226
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: c405832224654bc9a5848d0a79c48a92
+run_name: Extreme Gradient Boosting
+run_uuid: c405832224654bc9a5848d0a79c48a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681389463199
+status: 3
+tags: []
+user_id: snuggeha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/snuggeha/Documents/Internal-Demos/Insurance-Policy-Prediction/class-imbalance/notebooks/mlruns/3/7a714eb05a3048e5a1e6e5f7bb0e5af2/artifacts
+end_time: 1681389739935
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 7a714eb05a3048e5a1e6e5f7bb0e5af2
+run_name: str
+run_uuid: 7a714eb05a3048e5a1e6e5f7bb0e5af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681389739914
+status: 3
+tags: []
+user_id: snuggeha
